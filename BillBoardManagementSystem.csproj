@@ -22,4 +22,9 @@
     <None Include="Views\Home\Preview.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BillBoardManagementSystem.DAL\Core.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

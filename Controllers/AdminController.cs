@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Core.Interfaces;
+
 
 namespace BillBoardManagementSystem.Controllers
 {
